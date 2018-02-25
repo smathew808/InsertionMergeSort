@@ -1,0 +1,3 @@
+﻿  Project1_Sorting.cpp
+i:\school\cs-340\project1-sorting\project1_sorting\project1_sorting\project1_sorting.cpp(395): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Project1_Sorting.vcxproj -> I:\School\CS-340\Project1-Sorting\Project1_Sorting\Debug\Project1_Sorting.exe
